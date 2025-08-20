@@ -3,8 +3,9 @@
 ## Assessment 3 NLP Amazon Product Review Project
 ## Croup Members 
 
-- **Sajid Liaqat**
-- **Syed Hamza**
+- **Sujit Kumar**
+- **Hasan Baris**
+- **Umer Hayat**
 
 ## Commands
 pip install -r requirements.txt
